@@ -1,3 +1,3 @@
-import st as streamlit
+import streamlit as st
 
 st.write("my first app")
